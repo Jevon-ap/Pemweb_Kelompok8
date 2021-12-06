@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.isi{
+    width: 75%;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+}
+
+
+.batas{
+    height: 30px;
+    background-color: rgba(49, 54, 58, 0.63);
+    margin-left: -12px;
+    margin-right: -12px;
+    text-align: center;
+}
+.jarak{
+    height: 20px;
+}
+body{
+    background-image: url(../asset/yu-gi-oh.jpg);
+}
+
+.card-body:hover{
+    background-color: blue;
+}
+ a .list-group-item:hover{
+    background-color:rgba(0, 0, 255, 0.4);
+}
